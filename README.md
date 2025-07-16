@@ -1,7 +1,7 @@
 JNS Decoders
 ===============
 
-This Project is a DIY DCC Decoder for model railroad locomotives which aims to be cost effective.
+This Project IS VERY WIP, Please wait for releases before use
 
 Features
 --------
