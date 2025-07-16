@@ -1,4 +1,4 @@
-RP2040-Decoder
+JNS Decoders
 ===============
 
 This Project is a DIY DCC Decoder for model railroad locomotives which aims to be cost effective.
